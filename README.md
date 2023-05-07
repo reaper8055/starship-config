@@ -8,7 +8,7 @@ In your shellrc file add the following:
 export STARSHIP_CONFIG=$HOME/.config/starship/starship.toml
 ```
 
-## In you terminal run the following
+## In your terminal run the following
 
 ```sh
 mkdir -p $HOME/.config/starship
